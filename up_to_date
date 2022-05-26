@@ -1,0 +1,14 @@
+git clone
+git init
+git add
+git commit
+git push
+git touch
+git rm
+git mkdir
+git rmdir
+git fetch
+git pull
+cd
+ls
+clear
