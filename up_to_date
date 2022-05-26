@@ -12,3 +12,4 @@ git pull
 cd
 ls
 clear
+git status
